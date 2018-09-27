@@ -1,0 +1,5 @@
+In Workshop 2, I've refreshed myself on how to read from files.
+I've also learned how to implement move constructors, move
+assignments, and std::move(). This lab also demonstrated
+to me how efficient the move constructor is compared to the copy
+constructor.
