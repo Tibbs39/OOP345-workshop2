@@ -6,5 +6,4 @@ w2.cpp & gutenberg_shakespeare were provided to us to test our program.
 
 `./w2 gutenberg_shakespeare` to test.
 
-My intention with uploading this code on GitHub is merely to build a portfilo of my work.
-If you are another Seneca student please do not copy my work. 
+*My intention with uploading school assignments on GitHub is merely to build a portfolio of my work.* **_Please do not plagiarize._**
