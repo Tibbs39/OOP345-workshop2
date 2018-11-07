@@ -13,7 +13,7 @@ Below is a list of workshops that we are doing throughout the semester:
 - [x] [Basic Containers](https://github.com/Tibbs39/OOP345-workshop4)
 - [x] [Lambda Expressions](https://github.com/Tibbs39/OOP345-workshop5)
 - [x] [STL Containers](https://github.com/Tibbs39/OOP345-workshop6)
-- [ ] STL Algorithms
+- [x] [STL Algorithms](https://github.com/Tibbs39/OOP345-workshop7)
 - [ ] Smart Pointers
 - [ ] Multi-Threading
 
